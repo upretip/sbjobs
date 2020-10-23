@@ -1,0 +1,178 @@
+timestamp,job_id,link,location,position
+2020-10-22 23:53:13.543386,2344316,https://www.procore.com/jobs/openings/2344316,"Sydney, Australia",Channel Manager - APAC
+2020-10-22 23:53:13.543524,2347445,https://www.procore.com/jobs/openings/2347445,Remote United States,Strategic Project Manager
+2020-10-22 23:53:13.543641,2408188,https://www.procore.com/jobs/openings/2408188,"Carpinteria, CA","Customer Success Manager, Emerging"
+2020-10-22 23:53:13.543757,2410771,https://www.procore.com/jobs/openings/2410771,"Austin, TX","Customer Success Manager, Emerging"
+2020-10-22 23:53:13.543870,2410774,https://www.procore.com/jobs/openings/2410774,"Austin, TX","Customer Success Manager, Majors (General Contractors)"
+2020-10-22 23:53:13.543983,2355560,https://www.procore.com/jobs/openings/2355560,"London, UK","Implementation Manager, Emerging"
+2020-10-22 23:53:13.544094,2403280,https://www.procore.com/jobs/openings/2403280,"New York City, NY","Strategic Product Consultant, Construction Financials"
+2020-10-22 23:53:13.544207,2403273,https://www.procore.com/jobs/openings/2403273,"Austin, TX","Strategic Product Consultant, Construction Financials"
+2020-10-22 23:53:13.544318,2403217,https://www.procore.com/jobs/openings/2403217,"Carpinteria, CA","Strategic Product Consultant, Construction Financials"
+2020-10-22 23:53:13.544433,2410418,https://www.procore.com/jobs/openings/2410418,Remote United States,"Strategic Product Consultant, Construction Financials"
+2020-10-22 23:53:13.544546,2374974,https://www.procore.com/jobs/openings/2374974,"Austin, TX",Customer Support Representative
+2020-10-22 23:53:13.544657,2375000,https://www.procore.com/jobs/openings/2375000,"Willmar, MN",Customer Support Representative
+2020-10-22 23:53:13.544768,2410272,https://www.procore.com/jobs/openings/2410272,Remote United States,"Director of Engineering, Preconstruction"
+2020-10-22 23:53:13.544879,2410274,https://www.procore.com/jobs/openings/2410274,Remote Canada,"Director of Engineering, Preconstruction"
+2020-10-22 23:53:13.544989,2410251,https://www.procore.com/jobs/openings/2410251,"Carpinteria, CA","Director of Engineering, Preconstruction"
+2020-10-22 23:53:13.545101,2410271,https://www.procore.com/jobs/openings/2410271,"Austin, TX","Director of Engineering, Preconstruction"
+2020-10-22 23:53:13.545212,2399105,https://www.procore.com/jobs/openings/2399105,"Carpinteria, CA","Incident Manager, Site Reliability Engineering"
+2020-10-22 23:53:13.545323,2399107,https://www.procore.com/jobs/openings/2399107,"New York City, NY","Incident Manager, Site Reliability Engineering"
+2020-10-22 23:53:13.545435,2399103,https://www.procore.com/jobs/openings/2399103,"Austin, TX","Incident Manager, Site Reliability Engineering"
+2020-10-22 23:53:13.545546,2399101,https://www.procore.com/jobs/openings/2399101,Remote United States,"Incident Manager, Site Reliability Engineering"
+2020-10-22 23:53:13.545657,2296085,https://www.procore.com/jobs/openings/2296085,Remote United States,Lead Software Engineer (SDET - API Frameworks)
+2020-10-22 23:53:13.545770,2380056,https://www.procore.com/jobs/openings/2380056,Remote United States,Principal Android Engineer
+2020-10-22 23:53:13.545881,2172491,https://www.procore.com/jobs/openings/2172491,Remote United States,Principal Database Engineer
+2020-10-22 23:53:13.545993,2229246,https://www.procore.com/jobs/openings/2229246,"Austin, TX",Principal Data Engineer
+2020-10-22 23:53:13.546105,2229248,https://www.procore.com/jobs/openings/2229248,"Carpinteria, CA",Principal Data Engineer
+2020-10-22 23:53:13.546216,2251273,https://www.procore.com/jobs/openings/2251273,Remote United States,Principal Data Engineer - Kafka SME
+2020-10-22 23:53:13.546326,2172110,https://www.procore.com/jobs/openings/2172110,Remote United States,"Principal Security Engineer, Infrastructure Engineering"
+2020-10-22 23:53:13.546439,2172107,https://www.procore.com/jobs/openings/2172107,"Austin, TX","Principal Security Engineer, Infrastructure Engineering"
+2020-10-22 23:53:13.546551,2172082,https://www.procore.com/jobs/openings/2172082,"Carpinteria, CA","Principal Security Engineer, Infrastructure Engineering"
+2020-10-22 23:53:13.546663,2313870,https://www.procore.com/jobs/openings/2313870,"Carpinteria, CA",Principal Software Engineer
+2020-10-22 23:53:13.546775,2313872,https://www.procore.com/jobs/openings/2313872,Remote United States,Principal Software Engineer
+2020-10-22 23:53:13.546887,2412441,https://www.procore.com/jobs/openings/2412441,"Austin, TX",Principal Software Engineer
+2020-10-22 23:53:13.546998,2313868,https://www.procore.com/jobs/openings/2313868,"Austin, TX",Principal Software Engineer
+2020-10-22 23:53:13.547109,2381033,https://www.procore.com/jobs/openings/2381033,Remote Canada,Principal Software Engineer
+2020-10-22 23:53:13.547220,2245427,https://www.procore.com/jobs/openings/2245427,"Carpinteria, CA",Principal Software Engineer - Documents
+2020-10-22 23:53:13.547331,2245425,https://www.procore.com/jobs/openings/2245425,"Austin, TX",Principal Software Engineer - Documents
+2020-10-22 23:53:13.547442,2245429,https://www.procore.com/jobs/openings/2245429,Remote United States,Principal Software Engineer - Documents
+2020-10-22 23:53:13.547552,2271328,https://www.procore.com/jobs/openings/2271328,Remote United States,Principal Software Engineer - Internal Tools
+2020-10-22 23:53:13.547664,2382065,https://www.procore.com/jobs/openings/2382065,"Carpinteria, CA","Senior Manager, Site Reliability Engineer"
+2020-10-22 23:53:13.547775,2382064,https://www.procore.com/jobs/openings/2382064,New York Downtown,"Senior Manager, Site Reliability Engineer"
+2020-10-22 23:53:13.547886,2382044,https://www.procore.com/jobs/openings/2382044,"Austin, TX","Senior Manager, Site Reliability Engineer"
+2020-10-22 23:53:13.547996,2412462,https://www.procore.com/jobs/openings/2412462,"Carpinteria, CA","Senior Manager, Software Engineering"
+2020-10-22 23:53:13.548107,2412460,https://www.procore.com/jobs/openings/2412460,"Austin, TX","Senior Manager, Software Engineering"
+2020-10-22 23:53:13.548220,2231178,https://www.procore.com/jobs/openings/2231178,"Austin, TX",Senior Site Reliability Engineer
+2020-10-22 23:53:13.548332,2230921,https://www.procore.com/jobs/openings/2230921,Remote United States,Senior Site Reliability Engineer
+2020-10-22 23:53:13.548443,2381612,https://www.procore.com/jobs/openings/2381612,Remote United States,Senior Software Delivery Engineer
+2020-10-22 23:53:13.548554,2381604,https://www.procore.com/jobs/openings/2381604,"Carpinteria, CA",Senior Software Delivery Engineer
+2020-10-22 23:53:13.548665,2381611,https://www.procore.com/jobs/openings/2381611,"Austin, TX",Senior Software Delivery Engineer
+2020-10-22 23:53:13.548776,2381613,https://www.procore.com/jobs/openings/2381613,Remote Canada,Senior Software Delivery Engineer
+2020-10-22 23:53:13.548886,2379952,https://www.procore.com/jobs/openings/2379952,"Austin, TX",Senior Software Engineer
+2020-10-22 23:53:13.548997,2379955,https://www.procore.com/jobs/openings/2379955,Remote Canada,Senior Software Engineer
+2020-10-22 23:53:13.549108,2379954,https://www.procore.com/jobs/openings/2379954,Remote United States,Senior Software Engineer
+2020-10-22 23:53:13.549219,2379883,https://www.procore.com/jobs/openings/2379883,"Carpinteria, CA",Senior Software Engineer
+2020-10-22 23:53:13.549330,2271331,https://www.procore.com/jobs/openings/2271331,Remote United States,"Software Development Engineer, Data Validation"
+2020-10-22 23:53:13.549441,2295837,https://www.procore.com/jobs/openings/2295837,Remote United States,Software Development Engineer in Test - Mobile
+2020-10-22 23:53:13.549552,2396750,https://www.procore.com/jobs/openings/2396750,Remote United States,"Software Project Manager, R&D"
+2020-10-22 23:53:13.549663,2380022,https://www.procore.com/jobs/openings/2380022,Remote United States,Staff iOS Engineer
+2020-10-22 23:53:13.549774,2249591,https://www.procore.com/jobs/openings/2249591,Remote United States,Staff Site Reliability Engineer
+2020-10-22 23:53:13.549886,2249593,https://www.procore.com/jobs/openings/2249593,"Austin, TX",Staff Site Reliability Engineer
+2020-10-22 23:53:13.549999,2405070,https://www.procore.com/jobs/openings/2405070,"Austin, TX",Staff Software Engineer
+2020-10-22 23:53:13.550176,2381014,https://www.procore.com/jobs/openings/2381014,"Carpinteria, CA",Staff Software Engineer
+2020-10-22 23:53:13.550290,2381025,https://www.procore.com/jobs/openings/2381025,"Austin, TX",Staff Software Engineer
+2020-10-22 23:53:13.550402,2381026,https://www.procore.com/jobs/openings/2381026,Remote United States,Staff Software Engineer
+2020-10-22 23:53:13.550514,2381027,https://www.procore.com/jobs/openings/2381027,Remote Canada,Staff Software Engineer
+2020-10-22 23:53:13.550626,2396726,https://www.procore.com/jobs/openings/2396726,"Carpinteria, CA",Staff Software Engineer
+2020-10-22 23:53:13.550738,2396734,https://www.procore.com/jobs/openings/2396734,"Austin, TX",Staff Software Engineer
+2020-10-22 23:53:13.550849,2406460,https://www.procore.com/jobs/openings/2406460,Remote Canada,Staff Software Engineer
+2020-10-22 23:53:13.550960,2396736,https://www.procore.com/jobs/openings/2396736,Remote Canada,Staff Software Engineer
+2020-10-22 23:53:13.551071,2396739,https://www.procore.com/jobs/openings/2396739,Remote United States,Staff Software Engineer
+2020-10-22 23:53:13.551181,2396786,https://www.procore.com/jobs/openings/2396786,"Carpinteria, CA",Staff Software Engineer
+2020-10-22 23:53:13.551292,2396813,https://www.procore.com/jobs/openings/2396813,"Austin, TX",Staff Software Engineer
+2020-10-22 23:53:13.551403,2396814,https://www.procore.com/jobs/openings/2396814,Remote United States,Staff Software Engineer
+2020-10-22 23:53:13.551514,2396815,https://www.procore.com/jobs/openings/2396815,Remote Canada,Staff Software Engineer
+2020-10-22 23:53:13.551624,2396867,https://www.procore.com/jobs/openings/2396867,"Carpinteria, CA",Staff Software Engineer
+2020-10-22 23:53:13.551735,2396875,https://www.procore.com/jobs/openings/2396875,"Austin, TX",Staff Software Engineer
+2020-10-22 23:53:13.551845,2396876,https://www.procore.com/jobs/openings/2396876,Remote United States,Staff Software Engineer
+2020-10-22 23:53:13.551955,2396877,https://www.procore.com/jobs/openings/2396877,Remote Canada,Staff Software Engineer
+2020-10-22 23:53:13.552065,2405072,https://www.procore.com/jobs/openings/2405072,Remote United States,Staff Software Engineer
+2020-10-22 23:53:13.552176,2405077,https://www.procore.com/jobs/openings/2405077,Remote Canada,Staff Software Engineer
+2020-10-22 23:53:13.552287,2405062,https://www.procore.com/jobs/openings/2405062,"Carpinteria, CA",Staff Software Engineer
+2020-10-22 23:53:13.552397,2406454,https://www.procore.com/jobs/openings/2406454,"Carpinteria, CA",Staff Software Engineer
+2020-10-22 23:53:13.552507,2406458,https://www.procore.com/jobs/openings/2406458,"Austin, TX",Staff Software Engineer
+2020-10-22 23:53:13.552618,2406459,https://www.procore.com/jobs/openings/2406459,Remote United States,Staff Software Engineer
+2020-10-22 23:53:13.552729,2351030,https://www.procore.com/jobs/openings/2351030,"Austin, TX",Staff Software Engineer - Machine Learning Platform
+2020-10-22 23:53:13.552840,2351032,https://www.procore.com/jobs/openings/2351032,"Carpinteria, CA",Staff Software Engineer - Machine Learning Platform
+2020-10-22 23:53:13.552951,2374910,https://www.procore.com/jobs/openings/2374910,"Carpinteria, CA",Business Partner Financial Analyst
+2020-10-22 23:53:13.553061,2410553,https://www.procore.com/jobs/openings/2410553,"Carpinteria, CA",Payroll Supervisor
+2020-10-22 23:53:13.553172,2212434,https://www.procore.com/jobs/openings/2212434,"Austin, TX",Senior Deal Desk Analyst
+2020-10-22 23:53:13.553283,2212444,https://www.procore.com/jobs/openings/2212444,"Carpinteria, CA",Senior Deal Desk Analyst
+2020-10-22 23:53:13.553445,2212428,https://www.procore.com/jobs/openings/2212428,New York Downtown,Senior Deal Desk Analyst
+2020-10-22 23:53:13.553621,2347012,https://www.procore.com/jobs/openings/2347012,"Carpinteria, CA",Staff Accountant
+2020-10-22 23:53:13.553732,2317757,https://www.procore.com/jobs/openings/2317757,Remote United States,"Associate General Counsel, Corporate, Securities & M&A"
+2020-10-22 23:53:13.553844,2317761,https://www.procore.com/jobs/openings/2317761,"Austin, TX","Associate General Counsel, Corporate, Securities & M&A"
+2020-10-22 23:53:13.553956,2317904,https://www.procore.com/jobs/openings/2317904,New York Midtown,"Associate General Counsel, Corporate, Securities & M&A"
+2020-10-22 23:53:13.554068,2317629,https://www.procore.com/jobs/openings/2317629,"Carpinteria, CA","Associate General Counsel, Corporate, Securities & M&A"
+2020-10-22 23:53:13.554180,2317764,https://www.procore.com/jobs/openings/2317764,"Alameda, CA","Associate General Counsel, Corporate, Securities & M&A"
+2020-10-22 23:53:13.554291,2322442,https://www.procore.com/jobs/openings/2322442,"Alameda, CA","Associate General Counsel, Go-to-Market"
+2020-10-22 23:53:13.554403,2322441,https://www.procore.com/jobs/openings/2322441,Remote United States,"Associate General Counsel, Go-to-Market"
+2020-10-22 23:53:13.554514,2322439,https://www.procore.com/jobs/openings/2322439,New York Midtown,"Associate General Counsel, Go-to-Market"
+2020-10-22 23:53:13.554626,2322435,https://www.procore.com/jobs/openings/2322435,"Austin, TX","Associate General Counsel, Go-to-Market"
+2020-10-22 23:53:13.554736,2317600,https://www.procore.com/jobs/openings/2317600,"Carpinteria, CA","Associate General Counsel, Go-to-Market"
+2020-10-22 23:53:13.554848,2317540,https://www.procore.com/jobs/openings/2317540,Remote United States,"Director, Legal Operations"
+2020-10-22 23:53:13.554958,2317537,https://www.procore.com/jobs/openings/2317537,"Austin, TX","Director, Legal Operations"
+2020-10-22 23:53:13.555069,2317899,https://www.procore.com/jobs/openings/2317899,New York Midtown,"Director, Legal Operations"
+2020-10-22 23:53:13.555180,2316402,https://www.procore.com/jobs/openings/2316402,"Carpinteria, CA","Director, Legal Operations"
+2020-10-22 23:53:13.555290,2317542,https://www.procore.com/jobs/openings/2317542,"Alameda, CA","Director, Legal Operations"
+2020-10-22 23:53:13.555401,2352690,https://www.procore.com/jobs/openings/2352690,Remote United States,"Senior Commercial Counsel, Builders"
+2020-10-22 23:53:13.555511,2317623,https://www.procore.com/jobs/openings/2317623,"Carpinteria, CA","Senior Commercial Counsel, Builders"
+2020-10-22 23:53:13.555621,2352687,https://www.procore.com/jobs/openings/2352687,"Austin, TX","Senior Commercial Counsel, Builders"
+2020-10-22 23:53:13.555732,2352688,https://www.procore.com/jobs/openings/2352688,New York Downtown,"Senior Commercial Counsel, Builders"
+2020-10-22 23:53:13.555842,2412485,https://www.procore.com/jobs/openings/2412485,"Austin, TX",Senior Corporate Paralegal
+2020-10-22 23:53:13.555952,2412481,https://www.procore.com/jobs/openings/2412481,"Carpinteria, CA",Senior Corporate Paralegal
+2020-10-22 23:53:13.556061,2396527,https://www.procore.com/jobs/openings/2396527,Remote United States,Senior Corporate Paralegal
+2020-10-22 23:53:13.556171,2412487,https://www.procore.com/jobs/openings/2412487,"New York City, NY",Senior Corporate Paralegal
+2020-10-22 23:53:13.556282,2412486,https://www.procore.com/jobs/openings/2412486,"Alameda, CA",Senior Corporate Paralegal
+2020-10-22 23:53:13.556391,2356147,https://www.procore.com/jobs/openings/2356147,"Vancouver, BC",Digital & Media Marketing Strategist
+2020-10-22 23:53:13.556501,2355687,https://www.procore.com/jobs/openings/2355687,"Carpinteria, CA",Digital & Media Marketing Strategist
+2020-10-22 23:53:13.556611,2355692,https://www.procore.com/jobs/openings/2355692,"Austin, TX",Digital & Media Marketing Strategist
+2020-10-22 23:53:13.556722,2355693,https://www.procore.com/jobs/openings/2355693,Remote United States,Digital & Media Marketing Strategist
+2020-10-22 23:53:13.556833,2356148,https://www.procore.com/jobs/openings/2356148,"Toronto, ON",Digital & Media Marketing Strategist
+2020-10-22 23:53:13.556944,2399058,https://www.procore.com/jobs/openings/2399058,"Toronto, ON",Marketing Campaign Specialist
+2020-10-22 23:53:13.557055,2337955,https://www.procore.com/jobs/openings/2337955,Remote United States,Outbound Revenue Operations Manager
+2020-10-22 23:53:13.557166,2356141,https://www.procore.com/jobs/openings/2356141,Remote United States,Sr. SEO & Growth Optimization Strategist
+2020-10-22 23:53:13.557281,2356145,https://www.procore.com/jobs/openings/2356145,"Vancouver, BC",Sr. SEO & Growth Optimization Strategist
+2020-10-22 23:53:13.557431,2356140,https://www.procore.com/jobs/openings/2356140,"Carpinteria, CA",Sr. SEO & Growth Optimization Strategist
+2020-10-22 23:53:13.557545,2356138,https://www.procore.com/jobs/openings/2356138,"Austin, TX",Sr. SEO & Growth Optimization Strategist
+2020-10-22 23:53:13.557656,2356144,https://www.procore.com/jobs/openings/2356144,"Toronto, ON",Sr. SEO & Growth Optimization Strategist
+2020-10-22 23:53:13.557768,2381946,https://www.procore.com/jobs/openings/2381946,"Carpinteria, CA",People Services Specialist
+2020-10-22 23:53:13.557880,2385151,https://www.procore.com/jobs/openings/2385151,"Austin, TX",People Services Specialist
+2020-10-22 23:53:13.557991,2303380,https://www.procore.com/jobs/openings/2303380,"Carpinteria, CA","Director Product Management, Mobile"
+2020-10-22 23:53:13.558102,2303379,https://www.procore.com/jobs/openings/2303379,"Austin, TX","Director Product Management, Mobile"
+2020-10-22 23:53:13.558213,2303381,https://www.procore.com/jobs/openings/2303381,Remote United States,"Director Product Management, Mobile"
+2020-10-22 23:53:13.558324,2303382,https://www.procore.com/jobs/openings/2303382,New York Downtown,"Director Product Management, Mobile"
+2020-10-22 23:53:13.558435,2352933,https://www.procore.com/jobs/openings/2352933,"Austin, TX",Principal Product Manager - Collaboration
+2020-10-22 23:53:13.558546,2352935,https://www.procore.com/jobs/openings/2352935,Remote United States,Principal Product Manager - Collaboration
+2020-10-22 23:53:13.558657,2352934,https://www.procore.com/jobs/openings/2352934,"Carpinteria, CA",Principal Product Manager - Collaboration
+2020-10-22 23:53:13.558768,2348747,https://www.procore.com/jobs/openings/2348747,"Carpinteria, CA","Principal Product Manager, Identity - Security"
+2020-10-22 23:53:13.558879,2348748,https://www.procore.com/jobs/openings/2348748,Remote United States,"Principal Product Manager, Identity - Security"
+2020-10-22 23:53:13.558990,2348746,https://www.procore.com/jobs/openings/2348746,"Austin, TX","Principal Product Manager, Identity - Security"
+2020-10-22 23:53:13.559102,2287751,https://www.procore.com/jobs/openings/2287751,Remote United States,"VP, Product - Connected Experiences"
+2020-10-22 23:53:13.559213,2287723,https://www.procore.com/jobs/openings/2287723,"Carpinteria, CA","VP, Product - Connected Experiences"
+2020-10-22 23:53:13.559324,2287757,https://www.procore.com/jobs/openings/2287757,New York Downtown,"VP, Product - Connected Experiences"
+2020-10-22 23:53:13.559434,2287722,https://www.procore.com/jobs/openings/2287722,"Austin, TX","VP, Product - Connected Experiences"
+2020-10-22 23:53:13.559545,2335303,https://www.procore.com/jobs/openings/2335303,New York Downtown,"VP, Product - General Contractor"
+2020-10-22 23:53:13.559656,2335301,https://www.procore.com/jobs/openings/2335301,"Carpinteria, CA","VP, Product - General Contractor"
+2020-10-22 23:53:13.559766,2335300,https://www.procore.com/jobs/openings/2335300,"Austin, TX","VP, Product - General Contractor"
+2020-10-22 23:53:13.559877,2335302,https://www.procore.com/jobs/openings/2335302,Remote United States,"VP, Product - General Contractor"
+2020-10-22 23:53:13.559989,2348834,https://www.procore.com/jobs/openings/2348834,New York Downtown,"VP Product, International Strategy"
+2020-10-22 23:53:13.560100,2348832,https://www.procore.com/jobs/openings/2348832,"Carpinteria, CA","VP Product, International Strategy"
+2020-10-22 23:53:13.560211,2348833,https://www.procore.com/jobs/openings/2348833,Remote United States,"VP Product, International Strategy"
+2020-10-22 23:53:13.560322,2348831,https://www.procore.com/jobs/openings/2348831,"Austin, TX","VP Product, International Strategy"
+2020-10-22 23:53:13.560433,2369709,https://www.procore.com/jobs/openings/2369709,"Carpinteria, CA",Marketing Insights Analyst
+2020-10-22 23:53:13.560544,2380721,https://www.procore.com/jobs/openings/2380721,"Austin, TX",Marketing Insights Analyst
+2020-10-22 23:53:13.560655,2380723,https://www.procore.com/jobs/openings/2380723,New York Downtown,Marketing Insights Analyst
+2020-10-22 23:53:13.560767,2380725,https://www.procore.com/jobs/openings/2380725,Remote United States,Marketing Insights Analyst
+2020-10-22 23:53:13.560878,2397704,https://www.procore.com/jobs/openings/2397704,"Austin, TX",Revenue Coordinator
+2020-10-22 23:53:13.560990,2330545,https://www.procore.com/jobs/openings/2330545,Remote United States,"Senior Business Analyst, Revenue Systems"
+2020-10-22 23:53:13.561102,2301697,https://www.procore.com/jobs/openings/2301697,Remote United States,"Senior Manager, Field Sales Operations"
+2020-10-22 23:53:13.561214,2410783,https://www.procore.com/jobs/openings/2410783,"Austin, TX",Workforce Management Forecast Analyst
+2020-10-22 23:53:13.561325,2379783,https://www.procore.com/jobs/openings/2379783,"Carpinteria, CA","Account Executive, Emerging"
+2020-10-22 23:53:13.561437,2337455,https://www.procore.com/jobs/openings/2337455,Remote United States,"Account Executive, Strategic"
+2020-10-22 23:53:13.561548,2384648,https://www.procore.com/jobs/openings/2384648,"Austin, TX","Director, International Sales Development"
+2020-10-22 23:53:13.561660,2384659,https://www.procore.com/jobs/openings/2384659,"Carpinteria, CA","Director, International Sales Development"
+2020-10-22 23:53:13.561772,2372901,https://www.procore.com/jobs/openings/2372901,"Carpinteria, CA","Manager, Mid-Market Accounts"
+2020-10-22 23:53:13.561882,2336550,https://www.procore.com/jobs/openings/2336550,Remote United States,"Manager, Sales Engineering, Install Base"
+2020-10-22 23:53:13.561994,2337251,https://www.procore.com/jobs/openings/2337251,Remote United States,"Regional Sales Director, Strategic"
+2020-10-22 23:53:13.562105,2410112,https://www.procore.com/jobs/openings/2410112,"Toronto, ON",Sales Development Representative
+2020-10-22 23:53:13.562216,2410141,https://www.procore.com/jobs/openings/2410141,"Toronto, ON","Sales Development Representative, Bilingual (French)"
+2020-10-22 23:53:13.562327,2370051,https://www.procore.com/jobs/openings/2370051,"Carpinteria, CA","Sales Development Representative, Mid-Market"
+2020-10-22 23:53:13.562439,2370053,https://www.procore.com/jobs/openings/2370053,"Austin, TX","Sales Development Representative, Mid-Market"
+2020-10-22 23:53:13.562551,2343260,https://www.procore.com/jobs/openings/2343260,"Austin, TX","Sales Engineer, Strategic"
+2020-10-22 23:53:13.562663,2343261,https://www.procore.com/jobs/openings/2343261,New York Downtown,"Sales Engineer, Strategic"
+2020-10-22 23:53:13.562774,2343259,https://www.procore.com/jobs/openings/2343259,"Carpinteria, CA","Sales Engineer, Strategic"
+2020-10-22 23:53:13.562885,2335478,https://www.procore.com/jobs/openings/2335478,Remote United States,"Sales Engineer, Strategic"
+2020-10-22 23:53:13.562996,2410768,https://www.procore.com/jobs/openings/2410768,Remote Australia,Sr. Talent Acquisition Specialist
+2020-10-22 23:53:13.563108,2410764,https://www.procore.com/jobs/openings/2410764,"Sydney, Australia",Sr. Talent Acquisition Specialist
+2020-10-22 23:53:13.563219,2387163,https://www.procore.com/jobs/openings/2387163,"Carpinteria, CA",Lead UX Designer (Mobile / Web)
